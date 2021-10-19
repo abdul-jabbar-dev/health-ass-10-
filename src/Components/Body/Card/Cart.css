@@ -1,0 +1,6 @@
+.hoverCart:hover {
+    box-shadow: 6px 8px 20px 0px #808080d4;
+    transition: box-shadow .1s cubic-bezier(0, -1, 0, -0.43);
+
+
+}

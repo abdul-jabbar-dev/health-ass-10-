@@ -1,0 +1,25 @@
+.headerContainer {
+    background-color: #5EB4E7;
+    padding: 10px 0;
+    border: 0;
+}
+
+.navContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.navList {
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+    justify-content: space-around;
+}
+
+@media screen and (min-width: 1600px) {
+    .navContainer {
+        justify-content: space-between;
+    }
+}

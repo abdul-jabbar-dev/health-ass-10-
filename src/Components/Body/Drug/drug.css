@@ -1,0 +1,8 @@
+
+
+@media screen and (max-width: 600px) {
+    #root>div.MuiContainer-root.MuiContainer-maxWidthLg.css-1oqqzyl-MuiContainer-root>div.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-undefined.drugProfile.css-1gkzjdu-MuiGrid-root {
+        flex-direction: column;
+        padding: 20px 0;
+    }
+}

@@ -1,0 +1,123 @@
+[
+    {
+        "id": "9d5de50030",
+        "img": "/fakeDrugApiImag/acetram.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-tablet.svg",
+        "category": "Tablet",
+        "name": "Acetram ",
+        "brand": "Square Pharmaceuticals Ltd.",
+        "unitPrice": 3,
+        "description": "For the management of moderate to moderately severe pain: The recommended dose is 1 or 2 tablets every 4 to 6 hours as needed for pain relief up to a maximum of.",
+        "interaction": "Cefadroxil is an acid-stable and semi-synthetic oral cephalosporin. It is rapidly absorbed after oral administration. Urine concentration of this antibiotic, following a 1 gm dose, is maintained well above the MIC of susceptible urinary pathogens for 20 to 22 hours."
+    },
+    {
+        "id": "9d5de50130",
+        "img": "/fakeDrugApiImag/adryl.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-syrap.svg",
+        "category": "Syrup",
+        "name": "Phenadryl",
+        "brand": "ACME Pharmaceuticals Ltd.",
+        "unitPrice": 600,
+        "description": "Diphenhydramine is an antihistamine with anticholinergic and sedative effects. It competes with histamine for H1-receptor sites on effetor cell in blood vessels.",
+        "interaction": "E. coli, Proteus mirabilis, and Klebsiella species and skin & soft tissue infections caused by Staphylococci (including penicillinase producing bacteria) and Streptococci."
+    },
+    {
+        "id": "9d5de50230",
+        "img": "/fakeDrugApiImag/alacot.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-dropper.svg",
+        "category": "Eye Droper",
+        "name": "Alacot",
+        "brand": "Square Pharmaceuticals Ltd.",
+        "unitPrice": 750,
+        "description": "Olopatadine is an inhibitor of the release of histamine from the mast cell and a relatively selective histamine H1‐antagonist that inhibits the typeof immediate.",
+        "interaction": "It is indicated for the treatment of upper respiratory tract infections (pharyngitis and tonsillitis) caused by Streptococcus pyogenes (group-A beta-hemolytic Streptococci) and Streptococcus pneumoniae; urinary tract infections caused by E. coli."
+    },
+    {
+        "id": "9d5de50330",
+        "img": "/fakeDrugApiImag/alarid.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-tablet.svg",
+        "category": "Tablet",
+        "name": "Alarid ",
+        "brand": "Medimet Pharmaceuticals Ltd.",
+        "unitPrice": 7.8,
+        "description": "Ketotifen has anti-allergic properties and has been used similarly, to sodium chromoglycate in the prophylactic treatment of asthma. It also has the properties. ",
+        "interaction": "Use of this antibiotic may cause pseudomembranous colitis; so caution should be taken during diagnosis in patients who develop diarrhea in association with Cefadroxil therapy.. Chronic ingestion of anticonvulsants or oral steroid contraceptives"
+    },
+    {
+        "id": "9d5de50430",
+        "img": "/fakeDrugApiImag/alatrol.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-tablet.svg",
+        "category": "Tablet",
+        "name": "Alatrol",
+        "brand": "ACME Laboratories Ltd.",
+        "unitPrice": 3.1,
+        "description": "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At's pharmacologically has active.",
+        "interaction": "This drug should be used during pregnancy only if clearly needed. Cefadroxil have been shown to be excreted in human milk. So, caution should be exercised when Cefadroxil is administered during lactation."
+    },
+    {
+        "id": "9d5de50530",
+        "img": "/fakeDrugApiImag/alenvir.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-tablet.svg",
+        "category": "Tablet",
+        "name": "Alenvir",
+        "brand": "Veritas Pharmaceuticals Ltd.",
+        "unitPrice": 4.6,
+        "description": "Following oral administration of gemifloxacin, approximately 36% and 61% of the dose is excreted in the urine and feces, respectively wall unchanged metabolites. ",
+        "interaction": "FDA pregnancy category of Cefadroxil is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug."
+    },
+    {
+        "id": "9d5de50630",
+        "img": "/fakeDrugApiImag/facticin.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-capsul.svg",
+        "category": "Capsule",
+        "name": "Facticin ",
+        "brand": "Square Pharmaceuticals Ltd.",
+        "unitPrice": 7.1,
+        "description": "Gemifloxacin is a fluoroquinolone antibiotic. It is bactericidal with minimum bactericidal concentrations. Gemifloxacin an acts inhibiting DNA synthesis through.",
+        "interaction": "Bacterial cell wall synthesis by binding to 1 or more of the penicillin-binding proteins (PBPs) which in turn inhibit the final transpeptidation step of peptidoglycan synthesis in bacterial cell walls, thus inhibiting cell wall biosynthesis and arresting cell wall assembly."
+    },
+    {
+        "id": "9d5de50730",
+        "img": "/fakeDrugApiImag/ofran.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-syrap.svg",
+        "category": "Syrup",
+        "name": "Ofran",
+        "brand": "ACI Pharmaceutical Limited",
+        "unitPrice": 820,
+        "description": "Ondansetron is a potent, highly selective 5HT3 receptor-antagonist. Its precise mode nausea and vomiting of action in the control of nausea and vomiting known.",
+        "interaction": "Cefadroxil is an acid-stable and semi-synthetic oral cephalosporin. It is rapidly absorbed after oral administration. Urine concentration of this antibiotic, following a 1 gm dose, is maintained well above the MIC of susceptible urinary pathogens for 20 to 22 hours."
+    },
+    {
+        "id": "9d5de50830",
+        "img": "/fakeDrugApiImag/oxifyl.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-capsul.svg",
+        "category": "Capsule ",
+        "name": "Oxifyl ",
+        "brand": "Bengal drugs Limited",
+        "unitPrice": 2.5,
+        "description": "Pentoxifylline properties and its metabolites improve the flow properties  its of blood by decreasing metabolites it viscosityin the control of nausea vomiting.",
+        "interaction": "most updated, independent online medicine information directory in Bangladesh. Our aim is to be the most trusted resource for drug and related health information in Bangladesh. We will achieve this aim by presenting independent, objective."
+    },
+    {
+        "id": "9d5de50930",
+        "img": "/fakeDrugApiImag/vigorex.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-capsul.svg",
+        "category": "Capsule",
+        "name": "Vigorex ",
+        "brand": "ACI Pharmaceutical Limited",
+        "unitPrice": 7.8,
+        "description": "Sildenafil is a selective inhibitor of cyclic Guanosine Monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5) used for treatment of erectile dysfunctin. ",
+        "interaction": "healthcare professionals. Passionately founded in 2017,  already making its mark being one of the most visited online drug index in the country. With all that inspiration we are constantly evolving, expanding our horizons, reaching new heights."
+    },
+    {
+        "id": "9d5e0c1030",
+        "img": "/fakeDrugApiImag/virux.jpg",
+        "categoryIco": "/fakeDrugApiImag/categoryIco/medicine-cream.svg",
+        "category": "Cream",
+        "name": "Virux",
+        "brand": "Alien Pharma Limited",
+        "unitPrice": 100,
+        "description": "Acyclovir is a synthetic purine nucleoside analogue with inhibitory activity against Herpes simplex viruses type 1 (HSV-1) and type(HSV-2) in cell culture vivo.",
+        "interaction": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved."
+    }
+]

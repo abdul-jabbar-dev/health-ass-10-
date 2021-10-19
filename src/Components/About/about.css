@@ -1,0 +1,27 @@
+.aboutImgContainer {
+    display: flex;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.aboutDetails div {
+    margin-bottom: 15vh;
+}
+
+.aboutImg {
+    height: 300px;
+    display: inline-block;
+}
+
+@media screen and (max-width: 800px) {
+    .aboutDetails div {
+        margin-bottom: 5vh;
+    }
+}
+
+.aboutDetails  {
+
+text-align: center;
+}
