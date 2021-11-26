@@ -1,12 +1,13 @@
-﻿# Welcome to MediCare  Pharmacie!
+﻿﻿# Welcome to MediCare  Pharmacie!
 My web site link [MediCare Pharma](https://medi-care10.web.app/)
-# Summary
+# Website Features:
 
- - responsive website
+ - responsive website for browsers and mobile devices.
+ - Reactjs without jQuery, React Router, Firebase
  - using local data base
  - simple and suitable layout
- - using latest code
+ - using latest code and dynamic Routing system
  - Clean and organized Code.
 
 
-"# health-ass-10-" 
+"# MediCare-a-10-" 
